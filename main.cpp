@@ -1,10 +1,3 @@
-// Gumball State Machine.cpp : Defines the entry point for the console application.
-//
-// Program By Luke Bruni
-// Version 1
-// ---------------------
-
-#include "stdafx.h"
 #include <iostream>
 #include <string>
 
